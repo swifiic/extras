@@ -1,0 +1,5 @@
+This repository contains the "extra" dependencies used by the various projects under SWiFiIC.
+
+Includes:
+JDBC MySQL Connector
+SimpleXML Framework
